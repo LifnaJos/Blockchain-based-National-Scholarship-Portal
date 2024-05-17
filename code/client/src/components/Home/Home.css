@@ -1,0 +1,125 @@
+.content-section {
+  background-color: #fff;
+}
+
+.notification-body {
+  padding: 5px;
+}
+
+.carousel-section {
+  background-color: #003366;
+}
+
+.carousel-item {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+/*  */
+/* --------------------------- */
+.tab-list {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+}
+
+.tab-item {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  background-color: grey;
+  color: white;
+  margin-right: 2px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.tab-item.active {
+  background-color: blue;
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+.tab-content {
+  border: 1px solid #ddd;
+  border-top: none;
+}
+
+/* Styles for the table within the card */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #f2f2f2;
+}
+
+.expandable-card {
+  border: 1px solid #ddd;
+}
+
+.card-header {
+  padding: 10px;
+  background-color: #fff;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #0350dd;
+  font-weight: 600;
+  padding: 0px 10px 0px 10px;
+  font-size: 15px;
+}
+
+.card-body {
+  padding: 10px;
+  background-color: #fff;
+}
+
+.tab-header {
+  display: flex;
+}
+
+.tab-header button {
+  padding: 8px;
+  border: 1px solid #fff;
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.tab-header button:focus {
+  outline: none;
+}
+
+.tab-header button.active {
+  background-color: white;
+  border-bottom: 1px solid white;
+}
+
+.tab-header button.active {
+  background-color: #007bff;
+  color: white;
+  border-color: #fff;
+}
+
+.dropdownTable {
+  border: 1px solid black;
+}
+
+.expand-symbol {
+  font-size: 25px;
+}
