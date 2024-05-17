@@ -1,0 +1,25 @@
+/* styles.css */
+
+.sidebar {
+    left: 0;
+    height: 100%; /* Full height */
+    width: 200px; /* Adjust width as needed */
+    background-color: #f0f0f0; /* Sidebar background color */
+    padding: 20px;
+    border-right: 1px solid #ccc; /* Optional: Add border for separation */
+    overflow-y: auto; /* Enable vertical scrolling if needed */
+}
+
+.sidebar button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.sidebar button:hover {
+    background-color: #ddd;
+}
