@@ -12,7 +12,7 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
 * This project was performed by second year students during the Academic Year 2022-23 and 2023-24.
 * Members of 2022-23 : Richita Karira, Manav Keswani, Tanmay Chaudhary, Soumil Tawde 
 * Members of 2023-24 : Kushl Alve, Neelkanth Khithani, Vedang Gambhire, Shivam Choubey, Atharva Hande
-  - Code
+  - [Code](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/tree/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/code)
   - Cookbook
   - [Presentation](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/Intelligent%20Scholarship%20Program%20Presentation.pdf)
   - Report
