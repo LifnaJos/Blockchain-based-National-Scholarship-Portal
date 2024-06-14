@@ -10,17 +10,8 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
 
 ### Phase - 2 : Intelligent Scholarship Portal
 * This project was performed by second year students during the Academic Year 2022-23 and 2023-24.
-* Members of 2022-23 :
-  - Manav Keswani
-  - Richita Karira
-  - Tanmay Chaudhary
-  - Soumil Tawde 
-* Members of 2023-24 :
-  - [Kushl Alve](https://www.linkedin.com/in/kushl-alve/)
-  - [Neelkanth Khithani](https://www.linkedin.com/in/neelkanth-khithani/)
-  - [Vedang Gambhire](https://www.linkedin.com/in/vedang-gambhire-114049254/)
-  - Shivam Choubey
-  - [Atharva Hande](https://www.linkedin.com/in/atharva-hande/)
+* Members of 2022-23 : Manav Keswani, Richita Karira, Tanmay Chaudhary, Soumil Tawde,
+* Members of 2023-24 : [Kushl Alve](https://www.linkedin.com/in/kushl-alve/), [Neelkanth Khithani](https://www.linkedin.com/in/neelkanth-khithani/), [Vedang Gambhire](https://www.linkedin.com/in/vedang-gambhire-114049254/), Shivam Choubey, [Atharva Hande](https://www.linkedin.com/in/atharva-hande/)
 * Supporting Documents :
   - [Code](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/tree/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/code)
   - Cookbook
@@ -30,7 +21,6 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - Video
   - [BuzzPro'24 - Certificates, Paper, Diagrams](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/BuzzPro'24-%20Certificates%2CPaper%2CDiagrams.pdf)
 
- 
 ### Phase - 3 : Blockchain based National Scholarship Portal
 * This project is performed by second year students during the Academic Year 2023-24 as an Internship Project
 * Members : Sujal pathrabe, Eshan  Vijay, Vivek Menghani, Sanchet  Khemani, Asmi Rajbhar Rajbhar, Atharva Devendra Hande 
