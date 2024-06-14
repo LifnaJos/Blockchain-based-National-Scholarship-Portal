@@ -15,7 +15,7 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
 * Members of 2023-24 : [Kushl Alve](https://www.linkedin.com/in/kushl-alve/), [Neelkanth Khithani](https://www.linkedin.com/in/neelkanth-khithani/), [Vedang Gambhire](https://www.linkedin.com/in/vedang-gambhire-114049254/), Shivam Choubey, [Atharva Hande](https://www.linkedin.com/in/atharva-hande/)
 * Supporting Documents :
   - [Code](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/tree/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/code)
-  - Cookbook
+  - [Cookbook](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/Intelligent%20Scholarship%20Program%20Cookbook.pdf)
   - [Presentation](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/Intelligent%20Scholarship%20Program%20Presentation.pdf)
   - Report
   - Logbook
