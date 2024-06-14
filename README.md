@@ -18,4 +18,4 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - Report
   - Logbook
   - Video
-  - BuzzPro'24 - Certificates, Paper, Diagrams
+  - [BuzzPro'24 - Certificates, Paper, Diagrams](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/BuzzPro'24-%20Certificates%2CPaper%2CDiagrams.pdf)
