@@ -19,5 +19,5 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - [Presentation](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/Intelligent%20Scholarship%20Program%20Presentation.pdf)
   - [Report](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/Intelligent%20Scholarship%20Program%20Project%20Report%202023-24.pdf)
   - [Logbook](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/Intelligent%20Scholarship%20Program%20Logbook%202023-24.pdf)
-  - Video
+  - [Video] (https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/video/Intelligent%20Scholarship%20Portal%20-%20Brave%202024-03-28%2023-32-45.mp4)
   - [BuzzPro'24 - Certificates, Paper, Diagrams](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/BuzzPro'24-%20Certificates%2CPaper%2CDiagrams.pdf)
