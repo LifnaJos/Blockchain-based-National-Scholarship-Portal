@@ -1,0 +1,21 @@
+.success-message {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #65B741;
+    color: white;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    z-index: 9999; 
+  }
+  
+  .registration-completed-box p {
+    margin: 20px 0;
+    font-size: 24px;
+  }
+  
