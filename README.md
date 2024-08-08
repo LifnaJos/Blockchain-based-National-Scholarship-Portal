@@ -24,4 +24,4 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
     
 ### Phase - 3 : Blockchain based National Scholarship Portal
 * This project is performed by second year students during the Academic Year 2023-24 as an Internship Project
-* Members : Sujal pathrabe, Eshan  Vijay, Vivek Menghani, Sanchet  Khemani, Asmi Rajbhar Rajbhar, [Atharva Devendra Hande](https://www.linkedin.com/in/atharva-hande/)
+* Members : Sujal pathrabe, Eshan  Vijay, Vivek Menghani, Sanchet  Khemani, Asmi Rajbhar, [Atharva Devendra Hande](https://www.linkedin.com/in/atharva-hande/)
