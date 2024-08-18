@@ -29,3 +29,4 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - [code](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/tree/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/code)
   - [Sequence Diagram](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/tree/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/Sequence%20Diagram)
   - [Poster](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/Blockchain%20-%20Based%20Scholarship%20Fund%20Disbursement%20System%20%20Poster%20(A3)%20(1).pdf)
+  - [Architecture](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/Architecture.pdf)
