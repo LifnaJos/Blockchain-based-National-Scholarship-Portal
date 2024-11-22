@@ -21,7 +21,7 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - [Logbook](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/Intelligent%20Scholarship%20Program%20Logbook%202023-24.pdf)
   - [Video](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/video/Intelligent%20Scholarship%20Portal%20-%20Brave%202024-03-28%2023-32-45.mp4)
   - [BuzzPro'24 - Certificates, Paper, Diagrams](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-2-Intelligent-Scholarship-Portal-(2023-24-SE-09)/BuzzPro'24-%20Certificates%2CPaper%2CDiagrams.pdf)
-  - Paper Published in [IET Blockchain (Scopus Indexed Journal)](https://www.scopus.com/sourceid/21101199913) [Blockchain based intelligent disbursement in NationalScholarship Portal](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/blc2.12092)
+  - Paper Published in [IET Blockchain (Scopus Indexed Journal)](https://www.scopus.com/sourceid/21101199913) [Blockchain based intelligent disbursement in NationalScholarship Portal](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/blc2.12092) on 21st November 2024
     
 ### Phase - 3 : Blockchain based National Scholarship Portal
 * This project is performed by second year students during the Academic Year 2023-24 as an Internship Project
