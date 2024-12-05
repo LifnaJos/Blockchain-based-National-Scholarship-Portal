@@ -55,7 +55,9 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
 
 🎊 Kushl Alve, Neelkanth Khithani, Vedang Gambhire, Shivam Choubey, Atharva Hande (Second Year Computer Engineering students of 2023-24) for drafting and presenting the paper titled "Blockchain-based Intelligent Disbursement in the National Scholarship Portal" at BuzzPro'24 and winning first prize. 
 
-🎊 Asmi Rajbhar, Atharva Hande, Sanchet Khemani, Sujal Pathrabe, Eshan Vijay, Vivek Menghani (Summer Internship Students of 2023-24), for redefining the architectural diagram and securing first prize under Department category at Summer Sparks: Innovation Through Projects - 2024
+🎊 Asmi Rajbhar, Atharva Hande, Sanchet Khemani, Sujal Pathrabe, Eshan Vijay, Vivek Menghani (Summer Internship Students of 2023-24), for redefining the architectural diagram and securing first prize under Department category at Summer Sparks: Innovation Through Projects - 2024.
+
+🎊 Secured the 1st Runner Up for HyperHack 2024 with our project titled "Blockchain based National Scholarship Portal" along with Asmi Rajbhar and Atharva Hande. [Result Announcement!!](https://lf-hyperledger.atlassian.net/wiki/spaces/HIRC/pages/19171776/Final+Result)
 
 🎊 Kushl Alve, Neelkanth Khithani, Vedang Gambhire, Shivam Choubey, Atharva Hande co-authors of the paper titled "Blockchain based intelligent disbursement in National
 Scholarship Portal." published in IET Blockchain (2024). [Full paper](https://lnkd.in/dpEQ63ju)
