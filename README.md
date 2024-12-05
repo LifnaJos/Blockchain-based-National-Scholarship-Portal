@@ -1,6 +1,20 @@
 # Blockchain-based-National-Scholarship-Portal
 The National Scholarship Portal (NSP) faces challenges like non-automated systems, complex processes, physical verifications, fraud, delays, and data security. This research proposes a blockchain-based solution to create a tamper-proof, streamlined, and secure system, enhancing trust and accountability in scholarship management.
 
+### Paper Relevance : 
+* Total 135 Lakh applications were received and approx. 1825 Crores of funds has been dispersed in the year 2022-23.
+
+### Blockchain Benefits :
+📌 Reduces time delay in Verification & Fund Transfer from 2 - 3 months to 2 weeks.
+
+📌 Fool-Proof verification via Third Party Integration 
+
+📌 Issual of 80G certificate via IT Department 
+
+📌 Track the student progress throughout the studies
+
+📌 Full tuition fee coverage via eligibility-based scholarships.
+
 ### Phase - 1 : Intelligent Scholarship Disbursement Module for National Scholarship Portal
 * This project started in 2016-17 as a proposal drafted along with [Mohan Pawar](https://www.linkedin.com/in/mohan08p/)
 * Supporting Documents :
@@ -36,9 +50,12 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
  
 ### Acknowledgements to:
 🎊 Mohan Pawar, co-author of the paper titled "Intelligent Scholarship Disbursement Module for National Scholarship Portal" presented at the National Conference on Emerging Trends: Innovations and Challenges in IT (June 2017).
+
 🎊 Manav Keswani, Richita Karira, TANMAY CHAUDHARY, Soumil Tawde (Second Year Computer Engineering students of 2022-23) for the initial implementation of the paper.
+
 🎊 Kushl Alve, Neelkanth Khithani, Vedang Gambhire, Shivam Choubey, Atharva Hande (Second Year Computer Engineering students of 2023-24) for drafting and presenting the paper titled "Blockchain-based Intelligent Disbursement in the National Scholarship Portal" at BuzzPro'24 and winning first prize. 
-🎊 The paper is currently under revision after being accepted by the Scopus Indexed Journal - IET Blockchain. Special thanks to the Editors-in-Chief - Erwu Liu and My T. Thai
+
 🎊 Asmi Rajbhar, Atharva Hande, Sanchet Khemani, Sujal Pathrabe, Eshan Vijay, Vivek Menghani (Summer Internship Students of 2023-24), for redefining the architectural diagram and securing first prize under Department category at Summer Sparks: Innovation Through Projects - 2024
+
 🎊 Kushl Alve, Neelkanth Khithani, Vedang Gambhire, Shivam Choubey, Atharva Hande co-authors of the paper titled "Blockchain based intelligent disbursement in National
-Scholarship Portal." published in IET Blockchain (2024).
+Scholarship Portal." published in IET Blockchain (2024). [Full paper](https://lnkd.in/dpEQ63ju)
