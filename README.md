@@ -33,3 +33,12 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - [Architecture.](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/Architecture.pdf)
   - [System Diagram.](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/b20b3c088bba410a9112ccc3ce65745bfde7f4d5/System%20Diagram.pdf)
   - [Report Blockchain-NSP.](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/BlockNSP_Report.docx)
+ 
+### Acknowledgements to:
+🎊 Mohan Pawar, co-author of the paper titled "Intelligent Scholarship Disbursement Module for National Scholarship Portal" presented at the National Conference on Emerging Trends: Innovations and Challenges in IT (June 2017).
+🎊 Manav Keswani, Richita Karira, TANMAY CHAUDHARY, Soumil Tawde (Second Year Computer Engineering students of 2022-23) for the initial implementation of the paper.
+🎊 Kushl Alve, Neelkanth Khithani, Vedang Gambhire, Shivam Choubey, Atharva Hande (Second Year Computer Engineering students of 2023-24) for drafting and presenting the paper titled "Blockchain-based Intelligent Disbursement in the National Scholarship Portal" at BuzzPro'24 and winning first prize. 
+🎊 The paper is currently under revision after being accepted by the Scopus Indexed Journal - IET Blockchain. Special thanks to the Editors-in-Chief - Erwu Liu and My T. Thai
+🎊 Asmi Rajbhar, Atharva Hande, Sanchet Khemani, Sujal Pathrabe, Eshan Vijay, Vivek Menghani (Summer Internship Students of 2023-24), for redefining the architectural diagram and securing first prize under Department category at Summer Sparks: Innovation Through Projects - 2024
+🎊 Kushl Alve, Neelkanth Khithani, Vedang Gambhire, Shivam Choubey, Atharva Hande co-authors of the paper titled "Blockchain based intelligent disbursement in National
+Scholarship Portal." published in IET Blockchain (2024).
