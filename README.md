@@ -54,7 +54,7 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
 * Supporting Documents :
   - [Code]()
   - [Video]()
-  - [Internship Report]()
+  - [Internship Report](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/main/Internship-Report-KBA.pdf)
 
 ### Acknowledgements to:
 🎊 Mohan Pawar, co-author of the paper titled "Intelligent Scholarship Disbursement Module for National Scholarship Portal" presented at the National Conference on Emerging Trends: Innovations and Challenges in IT (June 2017).
