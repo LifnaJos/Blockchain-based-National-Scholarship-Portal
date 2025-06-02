@@ -47,7 +47,12 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - [Architecture.](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/Architecture.pdf)
   - [System Diagram.](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/b20b3c088bba410a9112ccc3ce65745bfde7f4d5/System%20Diagram.pdf)
   - [Report Blockchain-NSP.](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/BlockNSP_Report.docx)
- 
+
+### Phase - 4 : Internship with Kerala Blockchain Academy (KBA)
+* This project is performed by second year students during the Academic Year 2023-24 as an Internship Project
+* Members : Asmi Rajbhar, [Atharva Hande](https://www.linkedin.com/in/atharva-hande/) and Lifna C S ()
+* Supporting Documents :
+
 ### Acknowledgements to:
 🎊 Mohan Pawar, co-author of the paper titled "Intelligent Scholarship Disbursement Module for National Scholarship Portal" presented at the National Conference on Emerging Trends: Innovations and Challenges in IT (June 2017).
 
