@@ -24,7 +24,7 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - [Presentation](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Intelligent-Scholarship-Disbursement-Module-for-National-Scholarship-Portal-(NSP)-(2016-17)/ISDM_NSP.pdf)
 
 ### Phase - 2 : Intelligent Scholarship Portal
-* This project was performed by second year students during the Academic Year 2022-23 and 2023-24.
+* This phase of the project was performed by second year students during the Academic Year 2022-23 and 2023-24.
 * Members of 2022-23 : [Manav Keswani](https://www.linkedin.com/in/manav-keswani-012a20204/), Richita Karira, [Tanmay Chaudhary](https://www.linkedin.com/in/tanmay-chaudhary-22493127b/), [Soumil Tawde](https://www.linkedin.com/in/soumil-tawde/)
 * Members of 2023-24 : [Kushl Alve](https://www.linkedin.com/in/kushl-alve/), [Neelkanth Khithani](https://www.linkedin.com/in/neelkanth-khithani/), [Vedang Gambhire](https://www.linkedin.com/in/vedang-gambhire-114049254/), [Shivam Choubey](https://www.linkedin.com/in/shivam-choubey-6993a52a0/), [Atharva Hande](https://www.linkedin.com/in/atharva-hande/)
 * Supporting Documents :
@@ -38,7 +38,7 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - Paper Published in [IET Blockchain (Scopus Indexed Journal)](https://www.scopus.com/sourceid/21101199913) [Blockchain based intelligent disbursement in NationalScholarship Portal](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/blc2.12092) on 21st November 2024
     
 ### Phase - 3 : Blockchain based National Scholarship Portal
-* This project is performed by second year students during the Academic Year 2023-24 as an Internship Project
+* This phase of the project wss performed by second year students during the Academic Year 2023-24 as an Internship Project
 * Members : Sujal pathrabe, [Eshan Vijay](https://www.linkedin.com/in/eshanvijay/), [Vivek Menghani](https://www.linkedin.com/in/vivek-menghani-b74093303), [Sanchet  Khemani](https://www.linkedin.com/in/sanchetkhemani/), Asmi Rajbhar, [Atharva Hande](https://www.linkedin.com/in/atharva-hande/)
 * Supporting Documents :
   - [code.](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/tree/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/code)
@@ -49,7 +49,7 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
   - [Report Blockchain-NSP.](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-3-Blockchain-based-NSP-(2023-24-IP-02)/BlockNSP_Report.docx)
 
 ### Phase - 4 : Internship with [Kerala Blockchain Academy, KBA](https://kba.ai/)
-* This project is performed under the guidance of KBA during the Academic Year 2024-25 as an Internship Project.
+* This phase of the project was performed under the guidance of KBA during the Academic Year 2024-25 as an Internship Project.
 * Members : [Asmi Rajbhar](https://www.linkedin.com/in/asmi-rajbhar-818613239/), [Atharva Hande](https://www.linkedin.com/in/atharva-hande/) and [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/)
 * Supporting Documents :
   - [Code]()
