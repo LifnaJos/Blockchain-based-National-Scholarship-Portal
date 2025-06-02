@@ -52,6 +52,9 @@ The National Scholarship Portal (NSP) faces challenges like non-automated system
 * This project is performed under the guidance of KBA during the Academic Year 2024-25 as an Internship Project.
 * Members : [Asmi Rajbhar](https://www.linkedin.com/in/asmi-rajbhar-818613239/), [Atharva Hande](https://www.linkedin.com/in/atharva-hande/) and [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/)
 * Supporting Documents :
+  - [Code]()
+  - [Video]()
+  - [Internship Report]()
 
 ### Acknowledgements to:
 🎊 Mohan Pawar, co-author of the paper titled "Intelligent Scholarship Disbursement Module for National Scholarship Portal" presented at the National Conference on Emerging Trends: Innovations and Challenges in IT (June 2017).
